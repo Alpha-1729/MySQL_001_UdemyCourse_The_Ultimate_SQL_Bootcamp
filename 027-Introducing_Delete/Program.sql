@@ -12,4 +12,3 @@ DELETE FROM cats WHERE `name` = 'Egg';
 
 -- Delete all rows in a table.
 DELETE FROM cats;
-
