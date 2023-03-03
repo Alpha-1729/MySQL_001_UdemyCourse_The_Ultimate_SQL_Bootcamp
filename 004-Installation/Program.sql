@@ -28,6 +28,9 @@
                 Select MacOS in the drop-down.
                 Select: macOS (x86, 64-bit), DMG Archive
                 Launch the installer.
+        Changing default root password.
+                Run this command in the mysql command line.
+                ALTER USER 'root@localhost' IDENTIFIED BY 'newpasswordhere'
 >>>> Adding mysql command line client to path variable in Mac OS.
         open ~/.bash_profile
         Add the below line in the file.
@@ -41,5 +44,4 @@
         DbGate
                 Link: https://dbgate.org/
         DbGate works with other databases.
-
 */
