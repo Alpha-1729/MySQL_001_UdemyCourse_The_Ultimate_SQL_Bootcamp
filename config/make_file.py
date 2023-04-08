@@ -22,7 +22,7 @@ name = input("Enter the folder name: ")
 name = [word.capitalize() for word in name.split(' ')]
 name = '_'.join(name)
 topic_name = name.replace('_', ' ')
-folder_name = "{}-SQL-{}".format(str(folder_number).zfill(3), name)
+folder_name = "{}-Node-{}".format(str(folder_number).zfill(3), name)
 destination_folder_path = os.path.join(root_folder_path, folder_name)
 
 # Moving all the content from the template folder to the destination.

@@ -21,4 +21,4 @@ SELECT author_fname, author_lname FROM books ORDER BY 2 DESC;
 SELECT author_fname, author_lname FROM books ORDER BY author_fname ASC, author_lname DESC;
 
 -- Using alias from select in order by.
-SELECT CONCAT(author_fname, ' ', author_lname) AS author FROM books ORDER BY author;
+SELECT CONCAT(author_fname, ' ', author_lname) AS author FROM books ORDER BY author

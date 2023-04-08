@@ -22,7 +22,7 @@ BIT
 
 -- String Types
 CHAR
-VARCHAR
+VARCHAR (Variable length string)
 BINARY
 VARBINARY
 BLOB

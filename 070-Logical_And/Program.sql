@@ -1,7 +1,7 @@
 -- Logical And
 
 /*
->>>>
+>>>> In MySQL V8.017 and below && is used insted of AND operator.
 >>>>
 >>>>
 >>>>

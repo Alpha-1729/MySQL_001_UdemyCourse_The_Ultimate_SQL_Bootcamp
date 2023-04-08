@@ -11,7 +11,7 @@
 -- CONCAT
 SELECT CONCAT('Hello', 'World') AS MyMessage;
 
-SELECT CONCAT(author_firstname, ' ', author_lastname) AS author_fullname FROM books;
+SELECT CONCAT(author_firstname, ' ', author_lastname) AS author_full_name FROM books;
 
 -- CONCAT_WS -> Concat with separator.
 SELECT CONCAT_WS("-", 'Hello', 'World') AS MyMsg;

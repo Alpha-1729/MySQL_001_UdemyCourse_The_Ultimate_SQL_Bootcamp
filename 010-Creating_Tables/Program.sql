@@ -8,7 +8,7 @@
 */
 
 CREATE DATABASE pet_shop;
-USE pet_shop;
+USE pet_shop; 
 
 -- Creating tables.
 CREATE TABLE cats

@@ -5,7 +5,7 @@
         The length of the CHAR column is fixed to the length that you declare when you create the table.
         The length can be any value from 0 to 255.
         When CHAR values are stored, they are right-padded with spaces to the specified length.
-        When CHAR values are retrieved, trailing spaces are removed.
+        When CHAR values are retrieved, trailing spaces are removed, unless the PAD_TO_FULL_LENGTH SQL mode is enabled.
 >>>> CHAR VS VARCHAR
         Please seee the screenshot attached.
 >>>> CHAR is useful when you similar sized data like city shortname.

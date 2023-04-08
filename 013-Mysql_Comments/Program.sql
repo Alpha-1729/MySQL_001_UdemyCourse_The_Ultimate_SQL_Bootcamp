@@ -3,7 +3,7 @@
 /*
 >>>> Commenting code in the MySQL workbench.
         Select the code.
-        Press Ctrl + \
+        Press Ctrl + "/"" (Use the "/" in the number keypad.)
 >>>>
 >>>>
 >>>>

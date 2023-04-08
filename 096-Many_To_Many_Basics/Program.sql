@@ -5,7 +5,7 @@
 		Books can have many authors.
 		Each authors can have many books.
 >>>> An image explaining the Many to Many relationship is attached as screenshot.
->>>>
+>>>> YEAR(4) is a datatype for storing the year while defining column properties.
 >>>>
 */
 
@@ -18,7 +18,7 @@ CREATE TABLE reviewers (
 CREATE TABLE series (
     id INT PRIMARY KEY AUTO_INCREMENT,
     title VARCHAR(100),
-    released_year YEAR,
+    released_year YEAR(4),
     genre VARCHAR(100)
 );
 

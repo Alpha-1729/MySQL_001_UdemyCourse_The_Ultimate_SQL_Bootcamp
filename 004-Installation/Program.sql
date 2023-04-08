@@ -32,7 +32,7 @@
                 Run this command in the mysql command line.
                 ALTER USER 'root@localhost' IDENTIFIED BY 'newpasswordhere'
 >>>> Adding mysql command line client to path variable in Mac OS.
-        open ~/.bash_profile
+        open ~/.bash_profile OR .zshrc(If you are using zsh)
         Add the below line in the file.
                 export PATH=${PATH}:/usr/local/mysql/bin
 >>>> How to log into mysql command line client.

@@ -17,3 +17,7 @@ SELECT author_fname, author_lname, released_year FROM books ORDER BY released_ye
 -- The count of the limiting rows can be greater than the total number of rows in the table.
 -- It will returns the maximum results.
 SELECT * FROM books LIMIT 100;
+
+-- If you want limit from 5th entires till the last entries in the table, Add a large number to the second parameter to the LIMIT.
+-- Official documentation of the my-sql also recommends this way.
+SELECT * FROM books LIMIT 5, 23123213123123213213;

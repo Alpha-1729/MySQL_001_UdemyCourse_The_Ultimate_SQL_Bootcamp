@@ -10,4 +10,7 @@
         https://www.youtube.com/watch?v=DjhthBTXvXg&feature=youtu.be
 >>>> Goorm MySQL Cheat Sheet
         https://gist.github.com/nax3t/767e06f6af0bafc70b4c4cba0c8d38e7
+>>>> How to upload a file into goormIDE
+        https://www.loom.com/share/17d9b6d23cd7457ca7d5a8e585fe6733
+>>>> 
 */
