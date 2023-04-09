@@ -1,8 +1,0 @@
--- Introduction To Mysql Package
-
-/*
->>>>
->>>>
->>>>
->>>>
-*/
