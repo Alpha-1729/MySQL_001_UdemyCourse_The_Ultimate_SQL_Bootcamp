@@ -1,7 +1,7 @@
 -- Installation
 
 /*
->>>> SQL can be used in MySQL commandline and MySQL workbench.
+>>>> SQL can be used in MySQL command line and MySQL workbench.
 >>>> Installing MySQL workbench on windows.
         Link: https://dev.mysql.com/downloads/installer/
 >>>> Using MySQL Command line.
